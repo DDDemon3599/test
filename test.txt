@@ -1,8 +1,12 @@
-you see me~
+﻿you see me~
 i am a text for test!
 
 i was updated~
 
 it is 16:36 now.
 it is 16:52 now.
-it is 17:39 now by dev
+it is 17:39 now by issue-404
+
+it is 2015Äê6ÔÂ19ÈÕ10:49:00 by master
+it is 2015年6月19日10:52:21 by github
+it is 2015年6月19日11:24:01 by dev
